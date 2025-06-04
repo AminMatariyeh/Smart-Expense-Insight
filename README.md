@@ -7,4 +7,4 @@ Load your expense CSV file.
 
 Choose whether you want to view all expenses, a spending summary, or flagged abnormal transactions.
 
-View the results.# Smart-Expense-Insight
+View the results.
